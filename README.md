@@ -33,11 +33,11 @@ college_notice_system/
 ## Pipeline Stages
 | Stage | Description | Status |
 |-------|-------------|--------|
-| Stage 1 | Document ingestion and text extraction | ✅ Done |
-| Stage 2 | AI-powered field extraction | ✅ Done |
-| Stage 3 | Agentic routing engine | 🔨 In progress |
-| Stage 4 | Output delivery (SMS, WhatsApp, web) | ⬜ Upcoming |
-| Stage 5 | Admin dashboard | ⬜ Upcoming |
+| Stage 1 | Document ingestion and text extraction |  Done |
+| Stage 2 | AI-powered field extraction |  Done |
+| Stage 3 | Agentic routing engine |  In progress |
+| Stage 4 | Output delivery (SMS, WhatsApp, web) |  Upcoming |
+| Stage 5 | Admin dashboard |  Upcoming |
 
 ## Setup Instructions
 
