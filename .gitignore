@@ -1,0 +1,21 @@
+# Virtual environment
+venv/
+
+# Environment variables — NEVER push your API key
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Test outputs — optional to push
+outputs/
+inputs/
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
