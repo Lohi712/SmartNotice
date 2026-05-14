@@ -1,0 +1,7 @@
+pdfplumber         # Stage 1 — PDF parsing
+pillow             # Stage 1 — image handling
+pytesseract        # Stage 1 — OCR on images
+google-genai       # Stage 2 — Gemini AI (new SDK)
+instructor         # Stage 2 — structured output
+pydantic           # Stage 2 — field validation
+python-dotenv      # both stages — loading .env file
